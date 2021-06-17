@@ -9,7 +9,7 @@ public class MySecondClass2 {
 		
 		int mynumber2 = 10;
 		
-		system.out.println("mynumber is "+mynumber);
+		System.out.println("mynumber is "+mynumber);
 		
 	}
 }
